@@ -1,0 +1,6 @@
+var x, y;
+begin	
+  if x+y then
+		x = y;
+  x := y + 56;
+end 

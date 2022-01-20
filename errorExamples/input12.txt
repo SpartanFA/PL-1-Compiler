@@ -1,0 +1,6 @@
+const a = 1, b = 4;
+var x, y;
+begin	
+  a := 2;
+  x := x + y;
+end.

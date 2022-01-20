@@ -1,0 +1,11 @@
+const x = 1, b = 4;
+var m, j;
+begin
+	m :=b*(x+7);
+	read j;
+	if m>=j+b then
+		j:=j*2;
+	while j>m do
+		j:=j-1;
+	write m;
+end

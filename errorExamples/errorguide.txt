@@ -1,0 +1,20 @@
+If the program encounters an error it will shut off and create a .txt called ERROR.txt and cite the error.
+It will also print to console the error.
+
+In the folder which this file is in are 10 example inputs that would yield different errors.
+Each file ends with an index, that index corresponds with an error.
+
+1.	Use = instead of :=.
+4.	const, var, procedure must be followed by identifier.
+5.	Semicolon or comma missing.
+9.	Period expected.
+11.	Undeclared identifier.
+12.	Assignment to constant or procedure is not allowed.
+15.	Call of a constant or variable is meaningless.
+16.	then expected.
+17.	Semicolon or end expected.
+18.	do expected.
+20.	Relational operator expected.
+21.	Expression must not contain a procedure identifier.
+22.	Right parenthesis missing.
+
